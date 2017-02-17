@@ -1,4 +1,4 @@
-# InfoVis_project1
+# Project 0 - INFO 5602
 
 
 Collaborators:
